@@ -1,0 +1,15 @@
+{
+    {
+        console.log("\n\n\n\n1---------------------------");
+        const letters = new Set(["a", "b", "c"]);
+        let result = letters.entries();
+        console.log(result.next().value);
+        console.log(result.next().value);
+    }{
+        console.log("\n\n\n\n2---------------------------");
+        const numbers = new Set([1, 2]);
+        for (const value of numbers.entries()) {
+            console.log(value);
+        }
+    }
+}

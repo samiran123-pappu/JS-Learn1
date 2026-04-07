@@ -1,0 +1,10 @@
+{
+    {
+        console.log("\n\n\n\n1---------------------------");
+        console.log(Number.isNaN(NaN));
+    }{
+        console.log("\n\n\n\n2---------------------------");
+        console.log(Number.isNaN("Hello"));
+        console.log(Number.isNaN(100));
+    }
+}

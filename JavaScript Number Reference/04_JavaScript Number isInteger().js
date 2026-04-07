@@ -1,0 +1,10 @@
+{
+    {
+        console.log("\n\n\n\n1---------------------------");
+        console.log(Number.isInteger(10));
+    }{
+        console.log("\n\n\n\n2---------------------------");
+        console.log(Number.isInteger(10.5));
+        console.log(Number.isInteger("10"));
+    }
+}

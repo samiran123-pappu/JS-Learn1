@@ -1,0 +1,9 @@
+{
+    {
+        console.log("\n\n\n\n1---------------------------");
+        console.log(Math.LN2);
+    }{
+        console.log("\n\n\n\n2---------------------------");
+        console.log(Math.round(Math.LN2));
+    }
+}

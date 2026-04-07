@@ -1,0 +1,10 @@
+{
+    {
+        console.log("\n\n\n\n1---------------------------");
+        console.log(Number.isFinite(123));
+    }{
+        console.log("\n\n\n\n2---------------------------");
+        console.log(Number.isFinite(Infinity));
+        console.log(Number.isFinite("123"));
+    }
+}
