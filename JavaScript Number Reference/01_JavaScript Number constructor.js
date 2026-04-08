@@ -8,5 +8,6 @@
         console.log("\n\n\n\n2---------------------------");
         let y = new Number(456);
         console.log(y.constructor);
+        console.log(y);
     }
 }

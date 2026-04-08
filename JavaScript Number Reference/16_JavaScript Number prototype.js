@@ -15,5 +15,12 @@
 
         let y = 7;
         console.log(y.multiplyByTwo());
+    }{
+        console.log("\n\n\n\n3---------------------------");
+        Number.prototype.isEven = function () {
+            return this % 2 === 0;
+        }
+        let z = 8;
+        console.log(z.isEven());
     }
 }

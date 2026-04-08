@@ -7,17 +7,19 @@
     console.log(index);
   }
   {
+    console.log("\n\n\n\n2---------------------------");
     const fruits = ["Banana", "Orange", "Apple", "Mango", "Apple"];
     let index = fruits.indexOf("Apple", 3);
     console.log(index);
   }
   {
+    console.log("\n\n\n\n3---------------------------");
     const fruits = ["Banana", "Orange", "Apple", "Mango", "Apple"];
     let index = fruits.indexOf("Apple", -3);
     console.log(index);
   }
   {
-    console.log("\n\n\n\n2---------------------------");
+    console.log("\n\n\n\n4---------------------------");
     const fruits = ["Banana", "Orange", "Apple", "Mango", "Apple"];
     let index = fruits.indexOf("Apple", 3);
     console.log(index);

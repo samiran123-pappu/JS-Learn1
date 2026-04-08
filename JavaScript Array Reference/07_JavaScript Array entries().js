@@ -30,5 +30,11 @@
         console.log(text);
         console.log("orginal array:",fruits);
     
+    }{
+        console.log("\n\n\n\n4---------------------------");
+        const a = [10, 20, 30];
+        const b = [40, 50, 60];
+        const c = a.concat(b);
+        console.log(c);
     }
 }

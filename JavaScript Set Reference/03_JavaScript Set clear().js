@@ -10,5 +10,7 @@
         console.log(numbers.size);
         numbers.clear();
         console.log(numbers.size);
+    }{
+        
     }
 }

@@ -9,9 +9,11 @@
     console.log("\n\n\n\n2---------------------------");
     // Create an Array
     const fruits = ["Banana", "Orange", "Apple", "Mango"];
+    console.log(fruits);
 
     // Sort the Array
-    console.log(fruits.sort());
+    fruits.sort();
+    console.log(fruits);
 
     // Reverse the array
     fruits.reverse();

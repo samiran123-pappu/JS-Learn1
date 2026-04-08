@@ -7,6 +7,10 @@
     }{
         console.log("\n\n\n\n2---------------------------");
         let y = 123.456;
+         let z = 9999999e+99;
+        console.log(z.toExponential(5));
+        console.log(z.toFixed(5));
+        console.log(z.toPrecision(5));
         console.log(y.toPrecision(5));
     }
 }
